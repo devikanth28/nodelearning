@@ -1,4 +1,4 @@
-console.log("node is running successfullyyy")
+console.log("node is running successfullyyyyyyyyyyyyyyyyyyyyyy")
 
 const {multiplication} = require('./multiplication.js');
 
